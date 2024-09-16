@@ -1,5 +1,8 @@
 # Deny from all
-**
+*
 
 # Except
 !.gitignore
+
+# Documentation
+!README.md
